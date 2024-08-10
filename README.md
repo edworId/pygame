@@ -28,7 +28,7 @@ Utilizamos poucas bibliotecas para reproduzir o jogo.
 
 <h1 align="center">  </h1>
 <p align="center">
-<img width="900", title="RECORD AND DETECT", img src="https://github.com/edworId/pygame/blob/main/game_image.jpeg"/>
+<img width="400", title="RECORD AND DETECT", img src="https://github.com/edworId/pygame/blob/main/game_image.jpeg"/>
 </p>
 
 <h6 align="center">This interface was built using python and the library pygame, which works for GUI developments. </h6>
